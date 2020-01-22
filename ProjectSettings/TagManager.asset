@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SnowTiles
+  - Enemy
+  - WoodKingThorns
+  - PlayerChar
+  - AIWalls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemies
+  - Jumpable
+  - EnemyAttack
+  - InvisWalls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3952938849
+    locked: 0
+  - name: Enemies
+    uniqueID: 2731194841
+    locked: 0
+  - name: Player
+    uniqueID: 2543028339
+    locked: 0
+  - name: Foreground
+    uniqueID: 1027836305
+    locked: 0
